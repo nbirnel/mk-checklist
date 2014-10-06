@@ -1,5 +1,4 @@
 DOC = CHECKLIST
-PREFIX = /usr/local
 
 inc_patch : publish
 
